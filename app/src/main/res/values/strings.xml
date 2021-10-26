@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Modul2_Kel03</string>
+    <string name="mulai">Mulai</string>
+    <string name="berikutnya">Berikutnya</string>
+    <string name="perintah_tugas">Tugas : Tampilkan Data dari User yang di klik pada halaman sebelumnya kesini dan buat layout semenarik mungkin</string>
+    <string name="nama_panjang">Nama panjang</string>
+    <string name="full_name">%s %s</string>
+    <string name="user">User</string>
+</resources>
