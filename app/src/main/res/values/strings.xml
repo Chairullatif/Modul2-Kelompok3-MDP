@@ -6,4 +6,6 @@
     <string name="nama_panjang">Nama panjang</string>
     <string name="full_name">%s %s</string>
     <string name="user">User</string>
+    <string name="about">About</string>
+    <string name="kelompok_03">Kelompok 03:</string>
 </resources>

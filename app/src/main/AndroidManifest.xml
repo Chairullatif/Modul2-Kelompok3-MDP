@@ -11,14 +11,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Modul2_Kel03">
-        <activity android:name=".view.LandingPageActivity"
-            android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar"/>
+        <activity android:name=".view.AboutActivity"></activity>
+        <activity
+            android:name=".view.LandingPageActivity"
+            android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar" />
         <activity android:name=".view.MainActivity" />
         <activity android:name=".view.DetailActivity" />
-        <activity android:name=".view.SplashScreenActivity"
+        <activity
+            android:name=".view.SplashScreenActivity"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
